@@ -1,0 +1,3 @@
+#pokemon	hp	attack	defense	sp_attack	sp_defense	speed
+wizard	40	45	40	35	35	56
+sunglasses	59	45	40	35	40	31
